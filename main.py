@@ -24,6 +24,7 @@ bitmap="""
 33.                     **     *                    *
 34. ...................................................................."""
 
+
 print('Bitmap Message, by Al Sweigart')
 print('Enter the message to display with the bitmap.')
 message = input('> ')
